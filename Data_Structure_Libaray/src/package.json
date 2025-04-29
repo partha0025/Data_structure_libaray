@@ -1,0 +1,27 @@
+{
+  "name": "data_structure_libary",
+  "version": "1.0.2",
+  "description": "all data structes and function",
+  "keywords": [
+    "stack",
+    "queue",
+    "linklist",
+    "tree",
+    "graph"
+  ],
+  "homepage": "https://github.com/partha0025/Data_structure_libaray#readme",
+  "bugs": {
+    "url": "https://github.com/partha0025/Data_structure_libaray/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/partha0025/Data_structure_libaray.git"
+  },
+  "license": "MIT",
+  "author": "Partha Sarathy S",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
